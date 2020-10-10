@@ -9,5 +9,5 @@ Edits so far:
 - customized sections, information
 
 In progress:
-- Optimizing viewport on mobile, smaller screens than 11 inches 
+- optimizing viewport on mobile, smaller screens than 11 inches 
 - improving load speed of the site by optimizing the code 
