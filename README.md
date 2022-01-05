@@ -11,3 +11,6 @@ Edits so far:
 In progress:
 - optimizing viewport on mobile, smaller screens than 11 inches 
 - improving load speed of the site by optimizing the code 
+
+Important learning lessons:
+- aspect ratio for my curated images is 1.7:1 for height:width 
