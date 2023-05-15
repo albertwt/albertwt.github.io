@@ -1514,7 +1514,11 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 480px) {
-
+				#one {
+				  padding: 2em 1em;
+				}
+			  }
+			  
 			.row {
 				display: flex;
 				flex-wrap: wrap;
